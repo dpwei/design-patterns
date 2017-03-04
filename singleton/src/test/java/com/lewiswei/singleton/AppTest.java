@@ -1,4 +1,4 @@
-package com.lewiswei;
+package com.lewiswei.singleton;
 
 import org.junit.Assert;
 import org.junit.Test;

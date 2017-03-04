@@ -1,6 +1,4 @@
-package com.lewiswei;
-
-import com.lewiswei.singleton.LazyLoadBySynchronized;
+package com.lewiswei.singleton;
 
 /**
  * Created by Lewis Wei on 17/3/4.

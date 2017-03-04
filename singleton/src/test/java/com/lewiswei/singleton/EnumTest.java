@@ -1,6 +1,4 @@
-package com.lewiswei;
-
-import com.lewiswei.singleton.Enum;
+package com.lewiswei.singleton;
 
 
 public class EnumTest extends AppTest<Enum> {
