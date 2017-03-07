@@ -12,6 +12,7 @@
     <modules>
         <module>singleton</module>
         <module>factory</module>
+        <module>producer-consumer</module>
     </modules>
 
     <dependencies>
