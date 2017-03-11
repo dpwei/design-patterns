@@ -16,6 +16,7 @@
         <module>strategy</module>
         <module>adapter</module>
         <module>template-method</module>
+        <module>null-object</module>
     </modules>
 
     <dependencies>
