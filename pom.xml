@@ -15,6 +15,7 @@
         <module>producer-consumer</module>
         <module>strategy</module>
         <module>adapter</module>
+        <module>template-method</module>
     </modules>
 
     <dependencies>
