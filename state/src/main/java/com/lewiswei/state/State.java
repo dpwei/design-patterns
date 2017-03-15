@@ -1,4 +1,4 @@
-package com.lewiswei;
+package com.lewiswei.state;
 
 public interface State {
 

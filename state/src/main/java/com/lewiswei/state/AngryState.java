@@ -1,4 +1,4 @@
-package com.lewiswei;
+package com.lewiswei.state;
 
 /**
  * 子类实现状态转换后的业务

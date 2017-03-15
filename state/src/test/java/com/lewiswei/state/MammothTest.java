@@ -1,5 +1,8 @@
-package com.lewiswei;
+package com.lewiswei.state;
 
+import com.lewiswei.state.AngryState;
+import com.lewiswei.state.Mammoth;
+import com.lewiswei.state.PeacefulState;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
