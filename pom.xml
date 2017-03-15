@@ -17,6 +17,7 @@
         <module>adapter</module>
         <module>template-method</module>
         <module>null-object</module>
+        <module>State</module>
     </modules>
 
     <dependencies>
